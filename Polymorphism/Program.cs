@@ -34,8 +34,8 @@ class Program
         Employee emp = new Employee
         {
             Id = 202,
-            FirstName = "Kawthar",
-            LastName = "Rivera"
+            FirstName = "Haidar",
+            LastName = "Jamal"
         };
 
         // 🎭 POLYMORPHISM MAGIC:
